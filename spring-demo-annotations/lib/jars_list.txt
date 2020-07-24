@@ -1,0 +1,73 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3A72-2216
+
+ Directory of C:\temp\spring-review\spring-demo-annotations\lib
+
+07/24/2020  10:06 AM    <DIR>          .
+07/24/2020  10:06 AM    <DIR>          ..
+07/24/2020  10:06 AM                 0 jars_list.txt
+07/09/2020  03:09 PM         1,280,612 spring-aop-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           361,074 spring-aop-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM           372,705 spring-aop-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM            80,759 spring-aspects-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM            30,899 spring-aspects-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM            47,362 spring-aspects-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM         2,088,991 spring-beans-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           647,922 spring-beans-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM           688,811 spring-beans-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM         3,675,070 spring-context-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM         1,064,678 spring-context-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM         1,227,929 spring-context-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM            24,994 spring-context-indexer-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM            16,404 spring-context-indexer-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM            26,778 spring-context-indexer-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM           546,247 spring-context-support-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           170,064 spring-context-support-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM           182,362 spring-context-support-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM         2,660,554 spring-core-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           977,148 spring-core-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM         1,441,820 spring-core-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM           804,897 spring-expression-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           217,922 spring-expression-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM           282,183 spring-expression-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM            23,691 spring-instrument-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM             1,817 spring-instrument-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM             7,448 spring-instrument-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM            60,116 spring-jcl-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM            12,574 spring-jcl-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM            23,961 spring-jcl-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM         1,525,999 spring-jdbc-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           422,077 spring-jdbc-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM           407,193 spring-jdbc-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM           806,668 spring-jms-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           240,987 spring-jms-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM           261,929 spring-jms-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM         1,506,450 spring-messaging-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           393,955 spring-messaging-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM           549,213 spring-messaging-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM           492,465 spring-orm-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           177,800 spring-orm-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM           200,854 spring-orm-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM           194,770 spring-oxm-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM            51,212 spring-oxm-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM            64,159 spring-oxm-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM         2,002,537 spring-test-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           562,868 spring-test-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM           685,510 spring-test-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM         1,266,851 spring-tx-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           337,339 spring-tx-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM           314,679 spring-tx-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM         4,001,122 spring-web-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM         1,154,785 spring-web-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM         1,440,651 spring-web-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM         1,746,603 spring-webflux-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           482,829 spring-webflux-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM           848,762 spring-webflux-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM         2,573,639 spring-webmvc-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           802,326 spring-webmvc-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM           956,463 spring-webmvc-5.2.7.RELEASE.jar
+07/09/2020  03:09 PM         1,155,497 spring-websocket-5.2.7.RELEASE-javadoc.jar
+07/09/2020  03:09 PM           301,328 spring-websocket-5.2.7.RELEASE-sources.jar
+07/09/2020  03:09 PM           421,231 spring-websocket-5.2.7.RELEASE.jar
+              64 File(s)     47,398,543 bytes
+               2 Dir(s)  36,579,553,280 bytes free
